@@ -18,4 +18,3 @@ This repository contains a simple tool to detect and count bed bug eggs in image
 - Base for experiments and detection model refinement.
 
 ---
-![[requirements.txt]]
