@@ -1,6 +1,6 @@
 ==================== README.md ====================
 
-# BedBug Eggs Counter
+# AphidsEggs Counter
 
 > Software to detect and count bed bug eggs in images using computer vision and lightweight models.
 
